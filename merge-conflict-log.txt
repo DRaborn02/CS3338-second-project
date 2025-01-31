@@ -1,0 +1,57 @@
+commit 18bf486c177f1d0c670bd1f9dd21e5a748908d9e
+Author: HuyLam2004 <huygialam04@gmail.com>
+Date:   Fri Jan 31 11:24:28 2025 -0800
+
+    Added a div to index.html in merge-conflict branch
+
+commit 8d4082d743cd67e6128f05bc70cc99992c3d913e
+Author: LRaborn <draborn@calstatela.edu>
+Date:   Fri Jan 31 10:57:13 2025 -0800
+
+    added log and repo-location to project
+
+commit 02f8f7951a6ff3049ce4a49f5a2a7b374cf6f0d6
+Merge: 750b771 062efdb
+Author: LRaborn <draborn@calstatela.edu>
+Date:   Fri Jan 31 10:54:47 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 062efdb386f2f939e8a9f9282613bc762869ba7f
+Author: LRaborn <draborn@calstatela.edu>
+Date:   Fri Jan 31 10:52:45 2025 -0800
+
+    added favorite game to body info
+
+commit 750b771833e035812137ae974ffcfba519ad268d
+Author: LRaborn <draborn@calstatela.edu>
+Date:   Fri Jan 31 10:51:45 2025 -0800
+
+    added favorite food to body info
+
+commit 34ec6409877b4d4ac9fcbbb0c396380f92ffaa6b
+Author: LRaborn <draborn@calstatela.edu>
+Date:   Fri Jan 31 10:48:13 2025 -0800
+
+    Added and filled out README.md
+
+commit 2056776469fb468984dbdf6568c5ec047133212c
+Merge: 1d2bfc0 e087fb1
+Author: DRaborn02 <draborn@calstatela.edu>
+Date:   Fri Jan 31 10:42:18 2025 -0800
+
+    Merge pull request #1 from DRaborn02/info-fill
+    
+    updated info-fill
+
+commit e087fb16df325a9cd081a2ddf142f5f9d32c80f8
+Author: LRaborn <draborn@calstatela.edu>
+Date:   Fri Jan 31 10:39:58 2025 -0800
+
+    updated info-fill
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
